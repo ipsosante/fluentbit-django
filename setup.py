@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='fluentbit-django',
-    version='0.1',
+    version='0.2',
     description='Django fluentbit logging handler',
     author='ipso sante',
     author_email='contact@ipsosante.fr',
